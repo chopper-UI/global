@@ -1,0 +1,20 @@
+{
+  "name": "global",
+  "description": "theCN.com global style",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chopper-UI/global",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chopper-UI/global.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chopper-UI/global/issues"
+  },
+  "family": "chopper",
+  "spm": {
+    "alias": {},
+    "output": [
+      "global.css"
+    ]
+  }
+}
